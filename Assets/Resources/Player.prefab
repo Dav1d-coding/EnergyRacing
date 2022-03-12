@@ -104,6 +104,7 @@ MonoBehaviour:
   observableSearch: 2
   ObservedComponents:
   - {fileID: 8792069620173765744}
+  - {fileID: 6186675952447448989}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
@@ -135,3 +136,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fb2ed58a6dc0ef4db2b5abb0497cbfc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  GamePostiton: {x: 0, y: 0}
+  Direction: {x: 0, y: 0}
